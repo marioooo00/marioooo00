@@ -60,15 +60,5 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioRomany&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioRomany&theme=tokyonight&hide_border=true" height="180em"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioRomany&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioRomany&theme=tokyonight&hide_border=true" height="180em"/>
 </div>
-
-
----
-
-## 🏆 GitHub Achievements  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=MarioRomany&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15)
