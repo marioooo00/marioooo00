@@ -103,80 +103,27 @@ Passionate Flutter Developer specialized in building beautiful, scalable and hig
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ## 💻 Tech Store
 
-🛍️ A modern E-Commerce application built with Flutter & Firebase.
+<p align="center">
+<img src="tech-store.png" width="100%">
+</p>
 
-### Features
-- 🔐 Firebase Authentication
-- ❤️ Favorites
-- 🛒 Shopping Cart
-- 🔥 Firestore Database
-- 📱 Responsive UI
-
-</td>
-
-<td width="50%">
+---
 
 ## 🚗 Car Rental Platform
 
-A complete Flutter application for renting cars with a modern UI.
+<p align="center">
+<img src="car-rental.png" width="100%">
+</p>
 
-### Features
-- 🚘 Browse Cars
-- 📅 Booking System
-- ❤️ Favorites
-- 👤 User Profile
-- 💳 Clean UI
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
+---
 
 ## ✅ MR Task
 
-Smart Task Management App.
-
-### Features
-
-- ✅ Create Tasks
-- 📌 Priorities
-- 🌙 Dark Mode
-- 🔔 Notifications
-- 📅 Task Scheduling
-
-</td>
-
-<td width="50%">
-
-## 🗄 Faculty System DB
-
-Database Management System Project.
-
-### Technologies
-
-- SQL
-- Database Design
-- ER Diagram
-- Queries
-- Reports
-
-</td>
-
-</tr>
-
-</table>
-
----
+<p align="center">
+<img src="mr-task.png" width="100%">
+</p>
 
 # 🏆 GitHub Achievements
 
