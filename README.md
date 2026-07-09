@@ -70,22 +70,6 @@ Passionate Flutter Developer specialized in building beautiful, scalable and hig
 
 ---
 
-# 📊 GitHub Statistics
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marioooo00&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioooo00&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=marioooo00&theme=tokyonight"/>
-</p>
 
 ---
 
