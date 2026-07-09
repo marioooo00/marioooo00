@@ -103,36 +103,42 @@ Passionate Flutter Developer specialized in building beautiful, scalable and hig
 
 # 🚀 Featured Projects
 
-## 💻 Tech Store
+<table>
+<tr>
 
-<p align="center">
-<img src="tech-store.png" width="100%">
-</p>
+<td align="center" width="50%">
+<h3>💻 Tech Store</h3>
 
----
+<img src="tech-store.png" width="95%">
 
-## 🚗 Car Rental Platform
+Flutter • Firebase
+</td>
 
-<p align="center">
-<img src="car-rental.png" width="100%">
-</p>
+<td align="center" width="50%">
+<h3>🚗 Car Rental</h3>
 
----
+<img src="car-rental.png" width="95%">
 
-## ✅ MR Task
+Flutter • REST API
+</td>
 
-<p align="center">
-<img src="mr-task.png" width="100%">
-</p>
+</tr>
 
-# 🏆 GitHub Achievements
+<tr>
 
-<p align="center">
+<td colspan="2" align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marioooo00&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<h3>✅ MR Task</h3>
 
-</p>
+<img src="mr-task.png" width="60%">
 
+Flutter • Firebase
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 💻 Currently Learning
