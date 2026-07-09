@@ -2,53 +2,65 @@
   <img src="banner.png" alt="Mario Romany Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Mario Romany</h1>
+<h1 align="center">
+Hi 👋, I'm Mario Romany
+</h1>
 
 <h3 align="center">
 Flutter Developer 📱 | Computer Science Student @ BSNU
 </h3>
 
 <p align="center">
-Passionate Flutter Developer focused on building beautiful, scalable and high-performance mobile applications with clean architecture and modern UI.
+Passionate Flutter Developer specialized in building beautiful, scalable and high-performance mobile applications with Flutter & Firebase.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mario-romany-865669299">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:marioromany645@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/mario-romany-865669299">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://wa.me/201034120062">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<a href="mailto:marioromany645@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/marioooo00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://wa.me/201034120062">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/marioooo00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Firebase+Developer;Computer+Science+Student;Always+Learning+New+Things+🚀"/>
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-- 🎓 Computer Science Student @ BSNU
-- 📱 Flutter Mobile Developer
-- 🔥 Passionate about Mobile Development
-- 💙 Love Flutter & Firebase
+- 🎓 Computer Science Student at **BSNU**
+- 📱 Flutter Mobile Application Developer
+- 🔥 Passionate about building modern mobile applications
+- 💙 Flutter & Firebase Enthusiast
 - 🌱 Currently learning Clean Architecture & Advanced State Management
-- 🚀 Open to Internships & Freelance Opportunities
+- 🚀 Looking for Internship Opportunities
 - 📍 Minya, Egypt
 
-<br>
+<br><br><br>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -58,24 +70,13 @@ Passionate Flutter Developer focused on building beautiful, scalable and high-pe
 
 ---
 
-# 📱 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🚗 **Car Rental Platform** | Modern Flutter application for renting cars. |
-| 💻 **Tech Store** | Flutter + Firebase E-Commerce Application. |
-| ✅ **MR Task** | Clean Task Management App built with Flutter. |
-| 🗄️ **Faculty System DB** | Database Management System Project. |
-
----
-
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marioooo00&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marioooo00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioooo00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioooo00&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -91,31 +92,144 @@ Passionate Flutter Developer focused on building beautiful, scalable and high-pe
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=marioooo00&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=marioooo00&theme=tokyo-night&hide_border=true"/>
+
+</p>
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 💻 Tech Store
+
+🛍️ A modern E-Commerce application built with Flutter & Firebase.
+
+### Features
+- 🔐 Firebase Authentication
+- ❤️ Favorites
+- 🛒 Shopping Cart
+- 🔥 Firestore Database
+- 📱 Responsive UI
+
+</td>
+
+<td width="50%">
+
+## 🚗 Car Rental Platform
+
+A complete Flutter application for renting cars with a modern UI.
+
+### Features
+- 🚘 Browse Cars
+- 📅 Booking System
+- ❤️ Favorites
+- 👤 User Profile
+- 💳 Clean UI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## ✅ MR Task
+
+Smart Task Management App.
+
+### Features
+
+- ✅ Create Tasks
+- 📌 Priorities
+- 🌙 Dark Mode
+- 🔔 Notifications
+- 📅 Task Scheduling
+
+</td>
+
+<td width="50%">
+
+## 🗄 Faculty System DB
+
+Database Management System Project.
+
+### Technologies
+
+- SQL
+- Database Design
+- ER Diagram
+- Queries
+- Reports
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=marioooo00&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 🌍 Connect With Me
+# 💻 Currently Learning
+
+```text
+✅ Flutter Advanced
+✅ Firebase
+✅ REST API
+✅ Clean Architecture
+✅ State Management
+✅ SOLID Principles
+```
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mario-romany-865669299">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="mailto:marioromany645@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:marioromany645@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://www.linkedin.com/in/mario-romany-865669299">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://wa.me/201034120062">
-<img src="https://img.icons8.com/color/48/whatsapp.png" width="48"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+
+<a href="https://github.com/marioooo00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=marioooo00&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -123,10 +237,10 @@ Passionate Flutter Developer focused on building beautiful, scalable and high-pe
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+## 💙 Thanks for visiting my profile!
 
-<img src="https://komarev.com/ghpvc/?username=marioooo00&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+### ⭐ If you like my work, don't forget to Star my repositories ⭐
 
-⭐ **Don't forget to Star my repositories if you like them!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
