@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Mario Romany Banner" width="100%">
+</p>
 # Hi 👋, I'm Mario Romany
 
 ## 🚀 Flutter Developer
